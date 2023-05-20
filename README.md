@@ -1,2 +1,2 @@
-# Traceroute1
+# Traceroute
 Traceroute Implementation using Python
