@@ -3,7 +3,10 @@
 
 Traceroute Implementation using Python
 
-
+Functionalities : 
+1. Network Graph
+2. IP List
+3. Domain Names using Reverse DNS Lookup
 
 
 
