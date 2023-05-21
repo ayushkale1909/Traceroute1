@@ -12,4 +12,4 @@ Functionalities :
 
 
 
-![My Image](https://github.com/ayushkale1909/Traceroute1/blob/main/traceroute_example.png)
+![My Image](https://github.com/ayushkale1909/Traceroute1/blob/main/traceroute_example2.png)
